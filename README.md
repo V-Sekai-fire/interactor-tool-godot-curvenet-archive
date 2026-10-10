@@ -12,4 +12,4 @@ Nothing here builds on its own. The files are a record, read alongside the paren
 
 ## Licence
 
-MIT, per the licence headers in the sources. There is no `LICENSE` file.
+MIT. See [LICENSE](LICENSE).
